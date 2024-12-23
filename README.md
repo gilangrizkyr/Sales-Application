@@ -7,11 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p>Gunakan Dengan Bijak</p>
-
 ## Informasi
 
-aplikasi ini tidak untuk diperjual belikan maupun itu komersial atau non-komersial
+aplikasi ini tidak untuk diperjual belikan maupun itu komersial atau non-komersial.
+Oleh karena saya sangat menghormati bagi anda yang tidak melanggar sesuai ketentuan berlaku. Terima Kasih
 
 ## About Laravel
 
